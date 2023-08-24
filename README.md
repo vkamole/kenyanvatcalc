@@ -15,7 +15,7 @@ A simple and aesthetically pleasing VAT calculator for Kenyans, allowing users t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/kenyan-vat-calculator.git
+   git clone https://github.com/vkamole/kenyanvatcalc.git
 2. Navigate to the project directory:
 
    cd kenyan-vat-calculator
